@@ -1,0 +1,39 @@
+# Data
+data/
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.sqlite
+*.db
+
+# Plots and images
+extracted_plots/
+reference_slides/
+plots/
+figures/
+images/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.pdf
+*.eps
+
+# Python & Jupyter environment
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+env/
+venv/
